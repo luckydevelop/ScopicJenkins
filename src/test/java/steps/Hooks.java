@@ -1,6 +1,7 @@
 package steps;
 
 import com.codeborne.selenide.Configuration;
+import com.codeborne.selenide.WebDriverRunner;
 import cucumber.api.Scenario;
 import cucumber.api.java.After;
 import cucumber.api.java.Before;
@@ -20,6 +21,12 @@ public class Hooks {
     public void setupTimeout() {
         System.setProperty("webdriver.chrome.driver", PropertiesFromFile.getProperties().getProperty("driver.chrome.path"));
         Configuration.browser = PropertiesFromFile.getProperties().getProperty("browser");
+        boolean headleass = WebDriverRunner.isHeadless();
+        System.out.println(headleass);
+
+
+        //chromeOptions.addArguments("headless","disable-gpu")
+
     }
 
     @After
