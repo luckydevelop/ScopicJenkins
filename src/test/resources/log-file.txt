@@ -1,0 +1,30 @@
+2017-09-14 16:32:30 INFO  SignInPopUp:30 - olegmarket@gmail.com
+2017-09-14 16:32:59 INFO  SignInPopUp:30 - olegmarket@gmail.com
+2017-09-14 16:33:24 INFO  CreateNewPostPopUp:89 - Post Pop Up IsDisplayed - false
+2017-09-14 16:33:31 INFO  SignInPopUp:30 - olegmarket@gmail.com
+2017-09-14 16:33:57 INFO  SignInPopUp:30 - olegmarket@gmail.com
+2017-09-14 16:34:10 INFO  CreateNewPostPopUp:37 - Error message Headline cannot be blank. is present on the page - true
+2017-09-14 16:34:10 INFO  CreateNewPostPopUp:37 - Error message Media cannot be blank. is present on the page - true
+2017-09-14 16:34:10 INFO  CreateNewPostPopUp:37 - Error message Ad Type cannot be blank. is present on the page - true
+2017-09-14 16:34:10 INFO  CreateNewPostPopUp:37 - Error message Description cannot be blank. is present on the page - true
+2017-09-14 16:34:17 INFO  SignInPopUp:30 - olegmarket@gmail.com
+2017-09-14 16:34:30 INFO  CreateNewPostPopUp:37 - Error message Media cannot be blank. is present on the page - true
+2017-09-14 16:34:30 INFO  CreateNewPostPopUp:37 - Error message Ad Type cannot be blank. is present on the page - true
+2017-09-14 16:34:30 INFO  CreateNewPostPopUp:37 - Error message Description cannot be blank. is present on the page - true
+2017-09-14 16:34:36 INFO  SignInPopUp:30 - olegmarket@gmail.com
+2017-09-14 16:34:49 INFO  CreateNewPostPopUp:37 - Error message Media cannot be blank. is present on the page - true
+2017-09-14 16:34:49 INFO  CreateNewPostPopUp:37 - Error message Ad Type cannot be blank. is present on the page - true
+2017-09-14 16:34:55 INFO  SignInPopUp:30 - olegmarket@gmail.com
+2017-09-14 16:35:08 INFO  CreateNewPostPopUp:37 - Error message Media cannot be blank. is present on the page - true
+2017-09-14 16:35:15 INFO  SignInPopUp:30 - olegmarket@gmail.com
+2017-09-14 16:35:34 INFO  SignInPopUp:30 - 
+2017-09-14 16:35:35 INFO  SignInPopUp:51 - Password field error is - Required
+2017-09-14 16:35:35 INFO  SignInPopUp:62 - Password field error is - Required
+2017-09-14 16:35:42 INFO  SignInPopUp:30 - olegmarket@gmail.com
+2017-09-14 16:35:44 INFO  SignInPopUp:62 - Password field error is - Required
+2017-09-14 16:35:50 INFO  SignInPopUp:30 - olegmarket@gmail.com
+2017-09-14 16:35:52 INFO  SignInPopUp:62 - Password field error is - Invalid password
+2017-09-14 16:35:58 INFO  SignInPopUp:30 - 
+2017-09-14 16:35:59 INFO  SignInPopUp:51 - Password field error is - Required
+2017-09-14 16:36:06 INFO  SignInPopUp:30 - test
+2017-09-14 16:36:13 INFO  SignInPopUp:30 - unregistered@mail.com
